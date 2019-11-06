@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https//:kazikkluz.github.io/monsters-rolodex/static/css/main.6676a9f0.chunk.css",
-    "main.js": "https//:kazikkluz.github.io/monsters-rolodex/static/js/main.aef150f5.chunk.js",
-    "main.js.map": "https//:kazikkluz.github.io/monsters-rolodex/static/js/main.aef150f5.chunk.js.map",
-    "runtime-main.js": "https//:kazikkluz.github.io/monsters-rolodex/static/js/runtime-main.484963dd.js",
-    "runtime-main.js.map": "https//:kazikkluz.github.io/monsters-rolodex/static/js/runtime-main.484963dd.js.map",
-    "static/js/2.dfe4b3bc.chunk.js": "https//:kazikkluz.github.io/monsters-rolodex/static/js/2.dfe4b3bc.chunk.js",
-    "static/js/2.dfe4b3bc.chunk.js.map": "https//:kazikkluz.github.io/monsters-rolodex/static/js/2.dfe4b3bc.chunk.js.map",
-    "index.html": "https//:kazikkluz.github.io/monsters-rolodex/index.html",
-    "precache-manifest.822d4e110bdc4afc2827a220dec93a9d.js": "https//:kazikkluz.github.io/monsters-rolodex/precache-manifest.822d4e110bdc4afc2827a220dec93a9d.js",
-    "service-worker.js": "https//:kazikkluz.github.io/monsters-rolodex/service-worker.js",
-    "static/css/main.6676a9f0.chunk.css.map": "https//:kazikkluz.github.io/monsters-rolodex/static/css/main.6676a9f0.chunk.css.map"
+    "main.css": "https//:kazikkluz.github.io/Monster-Rolodex/static/css/main.6676a9f0.chunk.css",
+    "main.js": "https//:kazikkluz.github.io/Monster-Rolodex/static/js/main.2c2209bf.chunk.js",
+    "main.js.map": "https//:kazikkluz.github.io/Monster-Rolodex/static/js/main.2c2209bf.chunk.js.map",
+    "runtime-main.js": "https//:kazikkluz.github.io/Monster-Rolodex/static/js/runtime-main.8d515fae.js",
+    "runtime-main.js.map": "https//:kazikkluz.github.io/Monster-Rolodex/static/js/runtime-main.8d515fae.js.map",
+    "static/js/2.dfe4b3bc.chunk.js": "https//:kazikkluz.github.io/Monster-Rolodex/static/js/2.dfe4b3bc.chunk.js",
+    "static/js/2.dfe4b3bc.chunk.js.map": "https//:kazikkluz.github.io/Monster-Rolodex/static/js/2.dfe4b3bc.chunk.js.map",
+    "index.html": "https//:kazikkluz.github.io/Monster-Rolodex/index.html",
+    "precache-manifest.1a21d468d26fc5f069f22d85f20662b7.js": "https//:kazikkluz.github.io/Monster-Rolodex/precache-manifest.1a21d468d26fc5f069f22d85f20662b7.js",
+    "service-worker.js": "https//:kazikkluz.github.io/Monster-Rolodex/service-worker.js",
+    "static/css/main.6676a9f0.chunk.css.map": "https//:kazikkluz.github.io/Monster-Rolodex/static/css/main.6676a9f0.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.484963dd.js",
+    "static/js/runtime-main.8d515fae.js",
     "static/js/2.dfe4b3bc.chunk.js",
     "static/css/main.6676a9f0.chunk.css",
-    "static/js/main.aef150f5.chunk.js"
+    "static/js/main.2c2209bf.chunk.js"
   ]
 }
