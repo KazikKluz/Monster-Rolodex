@@ -1,44 +1,29 @@
-import React, {Component} from 'react';
-import {CardList} from "./components/card-list/card-list.component.jsx";
-
+import React, { Component } from "react";
+import { CardList } from "./components/card-list/card-list.component.jsx";
 
 import "./App.css";
 
-
-
 class App extends Component {
-
-  constructor(){
+  constructor() {
     super();
     this.state = {
-      monsters: []
-    }
-
+      monsters: [],
+    };
   }
 
-      componentDidMount(){
+  componentDidMount() {
+    fetch("https://jsonplaceholder.typicode.com/users")
+      .then((response) => response.json())
+      .then((users) => this.setState({ monsters: users }));
+  }
 
-          fetch("https://jsonplaceholder.typicode.com/users")
-              .then(response => response.json())
-              .then(users => this.setState({monsters: users}));
-
-
-      }
-  
-
-
-
-  render(){
+  render() {
     return (
       <div className="App">
-          <CardList>
-              {this.state.monsters.map(
-                  monster=>(<h1 key={monster.id}>{monster.name}</h1>))}
-          </CardList>
+        <CardList monsters={this.state.monsters} />
       </div>
     );
   }
-  
 }
 
 export default App;

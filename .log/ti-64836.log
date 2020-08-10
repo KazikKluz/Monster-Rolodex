@@ -1,0 +1,230 @@
+[12:8:29.218] Global cache location '/home/fdiamond/.cache/typescript/3.9', safe file path '/usr/lib/node_modules/typescript/lib/typingSafeList.json', types map path /usr/lib/node_modules/typescript/lib/typesMap.json
+[12:8:29.219] Processing cache location '/home/fdiamond/.cache/typescript/3.9'
+[12:8:29.219] Trying to find '/home/fdiamond/.cache/typescript/3.9/package.json'...
+[12:8:29.220] Loaded content of '/home/fdiamond/.cache/typescript/3.9/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.492"},"devDependencies":{"@types/assert":"^1.4.7","@types/async":"^3.2.3","@types/atob":"^2.1.2","@types/bcrypt":"^3.0.0","@types/body-parser":"^1.19.0","@types/bson":"^4.0.2","@types/cookie":"^0.4.0","@types/cookie-signature":"^1.0.3","@types/debug":"^4.1.5","@types/depd":"^1.1.32","@types/ejs":"^3.0.4","@types/express":"^4.17.6","@types/express-session":"^1.17.0","@types/isomorphic-fetch":"0.0.35","@types/js-base64":"^2.3.1","@types/json-stable-stringify":"^1.0.32","@types/lodash":"^4.14.151","@types/md5":"^2.2.0","@types/mongodb":"^3.5.18","@types/mongoose":"^5.7.21","@types/node":"^14.0.1","@types/node-sass":"^4.11.1","@types/object-path":"^0.11.0","@types/on-headers":"^1.0.0","@types/parseurl":"^1.3.1","@types/passport":"^1.0.3","@types/passport-google-oauth":"^1.0.41","@types/passport-google-oauth20":"^2.0.3","@types/passport-local":"^1.0.33","@types/passport-local-mongoose":"^4.0.13","@types/passport-oauth2":"^1.4.9","@types/passport-strategy":"^0.2.35","@types/pause":"^0.1.0","@types/random-bytes":"^1.0.1","@types/react":"^16.9.35","@types/react-dom":"^16.9.8","@types/react-redux":"^7.1.8","@types/react-router-dom":"^5.1.5","@types/redux-logger":"^3.0.7","@types/request":"^2.48.5","@types/semver":"^7.2.0","@types/sprintf":"^0.1.0","@types/testing-library__jest-dom":"^5.6.0","@types/testing-library__react":"^10.0.1","@types/testing-library__user-event":"^4.1.1","@types/uid-safe":"^2.1.2","@types/underscore":"^1.10.0"}}
+[12:8:29.220] Loaded content of '/home/fdiamond/.cache/typescript/3.9/package-lock.json'
+[12:8:29.228] Adding entry into typings cache: 'assert' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/assert/ts3.7/index.d.ts'
+[12:8:29.232] Adding entry into typings cache: 'async' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/async/index.d.ts'
+[12:8:29.235] Adding entry into typings cache: 'atob' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/atob/index.d.ts'
+[12:8:29.238] Adding entry into typings cache: 'bcrypt' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/bcrypt/index.d.ts'
+[12:8:29.241] Adding entry into typings cache: 'body-parser' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/body-parser/index.d.ts'
+[12:8:29.244] Adding entry into typings cache: 'bson' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/bson/index.d.ts'
+[12:8:29.245] Adding entry into typings cache: 'cookie' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/cookie/index.d.ts'
+[12:8:29.247] Adding entry into typings cache: 'cookie-signature' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/cookie-signature/index.d.ts'
+[12:8:29.249] Adding entry into typings cache: 'debug' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/debug/index.d.ts'
+[12:8:29.250] Adding entry into typings cache: 'depd' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/depd/index.d.ts'
+[12:8:29.252] Adding entry into typings cache: 'ejs' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/ejs/index.d.ts'
+[12:8:29.254] Adding entry into typings cache: 'express' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/express/index.d.ts'
+[12:8:29.257] Adding entry into typings cache: 'express-session' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/express-session/index.d.ts'
+[12:8:29.259] Adding entry into typings cache: 'isomorphic-fetch' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/isomorphic-fetch/index.d.ts'
+[12:8:29.260] Adding entry into typings cache: 'js-base64' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/js-base64/index.d.ts'
+[12:8:29.262] Adding entry into typings cache: 'json-stable-stringify' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/json-stable-stringify/index.d.ts'
+[12:8:29.268] Adding entry into typings cache: 'lodash' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/lodash/ts3.1/index.d.ts'
+[12:8:29.269] Adding entry into typings cache: 'md5' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/md5/index.d.ts'
+[12:8:29.272] Adding entry into typings cache: 'mongodb' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/mongodb/index.d.ts'
+[12:8:29.277] Adding entry into typings cache: 'mongoose' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/mongoose/index.d.ts'
+[12:8:29.280] Adding entry into typings cache: 'node' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/node/ts3.7/index.d.ts'
+[12:8:29.283] Adding entry into typings cache: 'node-sass' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/node-sass/index.d.ts'
+[12:8:29.285] Adding entry into typings cache: 'object-path' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/object-path/index.d.ts'
+[12:8:29.286] Adding entry into typings cache: 'on-headers' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/on-headers/index.d.ts'
+[12:8:29.288] Adding entry into typings cache: 'parseurl' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/parseurl/index.d.ts'
+[12:8:29.289] Adding entry into typings cache: 'passport' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/passport/index.d.ts'
+[12:8:29.291] Adding entry into typings cache: 'passport-google-oauth' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/passport-google-oauth/index.d.ts'
+[12:8:29.292] Adding entry into typings cache: 'passport-google-oauth20' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/passport-google-oauth20/index.d.ts'
+[12:8:29.295] Adding entry into typings cache: 'passport-local' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/passport-local/index.d.ts'
+[12:8:29.298] Adding entry into typings cache: 'passport-local-mongoose' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/passport-local-mongoose/index.d.ts'
+[12:8:29.301] Adding entry into typings cache: 'passport-oauth2' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/passport-oauth2/index.d.ts'
+[12:8:29.303] Adding entry into typings cache: 'passport-strategy' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/passport-strategy/index.d.ts'
+[12:8:29.308] Adding entry into typings cache: 'pause' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/pause/index.d.ts'
+[12:8:29.311] Adding entry into typings cache: 'random-bytes' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/random-bytes/index.d.ts'
+[12:8:29.316] Adding entry into typings cache: 'react' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts'
+[12:8:29.317] Adding entry into typings cache: 'react-dom' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react-dom/index.d.ts'
+[12:8:29.319] Adding entry into typings cache: 'react-redux' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react-redux/index.d.ts'
+[12:8:29.321] Adding entry into typings cache: 'react-router-dom' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react-router-dom/index.d.ts'
+[12:8:29.322] Adding entry into typings cache: 'redux-logger' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/redux-logger/index.d.ts'
+[12:8:29.323] Adding entry into typings cache: 'request' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/request/index.d.ts'
+[12:8:29.324] Adding entry into typings cache: 'semver' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/semver/index.d.ts'
+[12:8:29.325] Adding entry into typings cache: 'sprintf' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/sprintf/index.d.ts'
+[12:8:29.326] Adding entry into typings cache: 'testing-library__jest-dom' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[12:8:29.327] Adding entry into typings cache: 'testing-library__react' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/testing-library__react/index.d.ts'
+[12:8:29.329] Adding entry into typings cache: 'testing-library__user-event' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/testing-library__user-event/index.d.ts'
+[12:8:29.330] Adding entry into typings cache: 'uid-safe' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/uid-safe/index.d.ts'
+[12:8:29.331] Adding entry into typings cache: 'underscore' => '/home/fdiamond/.cache/typescript/3.9/node_modules/@types/underscore/index.d.ts'
+[12:8:29.331] Finished processing cache location '/home/fdiamond/.cache/typescript/3.9'
+[12:8:29.331] Process id: 64844
+[12:8:29.331] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[12:8:29.331] validateDefaultNpmLocation: false
+[12:8:29.331] Npm config file: /home/fdiamond/.cache/typescript/3.9/package.json
+[12:8:29.331] Updating types-registry npm package...
+[12:8:29.332] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[12:8:30.511]     Succeeded. stdout:
+    + types-registry@0.1.492
+    updated 1 package and audited 100 packages in 0.782s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+[12:8:30.511] Updated types-registry npm package
+[12:8:32.445] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card/card.component.jsx","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card-list.component.jsx","/home/fdiamond/Training/monster-rolodex/src/components/search-box/search-box.component.jsx","/home/fdiamond/Training/monster-rolodex/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src","kind":"discover"}
+[12:8:32.453] Loaded safelist from types map file '/usr/lib/node_modules/typescript/lib/typesMap.json'
+[12:8:32.454] Explicitly included types: []
+[12:8:32.456] Inferred 'react' typings due to presence of '.jsx' extension
+[12:8:32.456] Inferred typings from unresolved imports: []
+[12:8:32.456] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card/node_modules","/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/components/search-box/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/search-box/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:8:32.456] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card/node_modules","/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/components/search-box/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/search-box/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:8:32.456] DirectoryWatcher:: Added:: WatchInfo: /home/fdiamond/Training/monster-rolodex/src/components
+[12:8:32.459] DirectoryWatcher:: Added:: WatchInfo: /home/fdiamond/Training/monster-rolodex/src/bower_components
+[12:8:32.459] DirectoryWatcher:: Added:: WatchInfo: /home/fdiamond/Training/monster-rolodex/src/node_modules
+[12:8:32.460] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:8:32.460] Response has been sent.
+[12:8:32.460] No new typings were requested as a result of typings discovery
+[12:10:14.576] DirectoryWatcher:: Triggered with /home/fdiamond/Training/monster-rolodex/src/components/card :: WatchInfo: /home/fdiamond/Training/monster-rolodex/src/components recursive :: handler is already invoked 'false'
+[12:10:14.577] DirectoryWatcher:: Triggered with /home/fdiamond/Training/monster-rolodex/src/components/search-box :: WatchInfo: /home/fdiamond/Training/monster-rolodex/src/components recursive :: handler is already invoked 'false'
+[12:17:53.292] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:17:53.293] Explicitly included types: []
+[12:17:53.293] Inferred 'react' typings due to presence of '.jsx' extension
+[12:17:53.293] Inferred typings from unresolved imports: []
+[12:17:53.294] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:17:53.294] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:17:53.294] DirectoryWatcher:: Added:: WatchInfo: /home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components
+[12:17:53.294] DirectoryWatcher:: Added:: WatchInfo: /home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules
+[12:17:53.295] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:17:53.295] Response has been sent.
+[12:17:53.295] No new typings were requested as a result of typings discovery
+[12:17:54.497] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:17:54.498] Explicitly included types: []
+[12:17:54.498] Inferred typings from unresolved imports: []
+[12:17:54.498] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:17:54.498] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:17:54.498] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[12:17:54.498] Response has been sent.
+[12:17:54.498] No new typings were requested as a result of typings discovery
+[12:17:54.932] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":[],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:17:54.932] Explicitly included types: []
+[12:17:54.932] Inferred typings from unresolved imports: []
+[12:17:54.933] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:17:54.933] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:17:54.933] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[12:17:54.933] Response has been sent.
+[12:17:54.933] No new typings were requested as a result of typings discovery
+[12:18:7.587] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:18:7.587] Explicitly included types: []
+[12:18:7.587] Inferred 'react' typings due to presence of '.jsx' extension
+[12:18:7.588] Inferred typings from unresolved imports: []
+[12:18:7.588] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:7.588] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:7.588] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:18:7.588] Response has been sent.
+[12:18:7.588] No new typings were requested as a result of typings discovery
+[12:18:7.761] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:18:7.761] Explicitly included types: []
+[12:18:7.762] Inferred 'react' typings due to presence of '.jsx' extension
+[12:18:7.762] Inferred typings from unresolved imports: []
+[12:18:7.762] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:7.762] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:7.762] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:18:7.762] Response has been sent.
+[12:18:7.762] No new typings were requested as a result of typings discovery
+[12:18:16.676] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["re"],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:18:16.677] Explicitly included types: []
+[12:18:16.677] Inferred 'react' typings due to presence of '.jsx' extension
+[12:18:16.677] Inferred typings from unresolved imports: ["re"]
+[12:18:16.678] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":["re"],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:16.678] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":["re"],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:16.678] Installing typings ["re"]
+[12:18:16.679] 're':: Entry for package 're' does not exist in local types registry - skipping...
+[12:18:16.679] All typings are known to be missing or invalid - no need to install more typings
+[12:18:16.679] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":["re"],"kind":"action::set"}
+[12:18:16.679] Response has been sent.
+[12:18:17.680] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["rea"],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:18:17.680] Explicitly included types: []
+[12:18:17.681] Inferred 'react' typings due to presence of '.jsx' extension
+[12:18:17.681] Inferred typings from unresolved imports: ["rea"]
+[12:18:17.681] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":["rea"],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:17.681] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":["rea"],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:17.681] Installing typings ["rea"]
+[12:18:17.681] 'rea':: Entry for package 'rea' does not exist in local types registry - skipping...
+[12:18:17.681] All typings are known to be missing or invalid - no need to install more typings
+[12:18:17.681] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":["rea"],"kind":"action::set"}
+[12:18:17.682] Response has been sent.
+[12:18:18.72] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":["reac"],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:18:18.72] Explicitly included types: []
+[12:18:18.73] Inferred 'react' typings due to presence of '.jsx' extension
+[12:18:18.73] Inferred typings from unresolved imports: ["reac"]
+[12:18:18.73] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":["reac"],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:18.73] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":["reac"],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:18.73] Installing typings ["reac"]
+[12:18:18.73] 'reac':: Entry for package 'reac' does not exist in local types registry - skipping...
+[12:18:18.73] All typings are known to be missing or invalid - no need to install more typings
+[12:18:18.73] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":["reac"],"kind":"action::set"}
+[12:18:18.73] Response has been sent.
+[12:18:18.469] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:18:18.470] Explicitly included types: []
+[12:18:18.470] Inferred 'react' typings due to presence of '.jsx' extension
+[12:18:18.470] Inferred typings from unresolved imports: []
+[12:18:18.470] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:18.470] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:18:18.471] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:18:18.471] Response has been sent.
+[12:18:18.471] No new typings were requested as a result of typings discovery
+[12:22:55.108] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card-list.component.jsx","/home/fdiamond/Training/monster-rolodex/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src","kind":"discover"}
+[12:22:55.109] Explicitly included types: []
+[12:22:55.109] Inferred 'react' typings due to presence of '.jsx' extension
+[12:22:55.109] Inferred typings from unresolved imports: []
+[12:22:55.110] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:22:55.110] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:22:55.110] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:22:55.110] Response has been sent.
+[12:22:55.110] No new typings were requested as a result of typings discovery
+[12:22:56.146] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card-list.component.jsx","/home/fdiamond/Training/monster-rolodex/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src","kind":"discover"}
+[12:22:56.146] Explicitly included types: []
+[12:22:56.147] Inferred 'react' typings due to presence of '.jsx' extension
+[12:22:56.147] Inferred typings from unresolved imports: []
+[12:22:56.147] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:22:56.147] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:22:56.147] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:22:56.147] Response has been sent.
+[12:22:56.147] No new typings were requested as a result of typings discovery
+[12:22:57.877] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card.component.jsx","/home/fdiamond/Training/monster-rolodex/src/components/card-list/card-list.component.jsx","/home/fdiamond/Training/monster-rolodex/src/App.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src","kind":"discover"}
+[12:22:57.877] Explicitly included types: []
+[12:22:57.877] Inferred 'react' typings due to presence of '.jsx' extension
+[12:22:57.877] Inferred typings from unresolved imports: []
+[12:22:57.877] Result: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:22:57.877] Finished typings discovery: {"cachedTypingPaths":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules","/home/fdiamond/Training/monster-rolodex/src/bower_components","/home/fdiamond/Training/monster-rolodex/src/node_modules"]}
+[12:22:57.878] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":["/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"unresolvedImports":[],"kind":"action::set"}
+[12:22:57.878] Response has been sent.
+[12:22:57.878] No new typings were requested as a result of typings discovery
+[12:23:0.594] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/usr/lib/node_modules/typescript/lib/lib.d.ts","/usr/lib/node_modules/typescript/lib/lib.es5.d.ts","/usr/lib/node_modules/typescript/lib/lib.dom.d.ts","/usr/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/usr/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/global.d.ts","/home/fdiamond/.cache/typescript/3.9/node_modules/@types/react/index.d.ts"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:23:0.595] Explicitly included types: []
+[12:23:0.595] Inferred typings from unresolved imports: []
+[12:23:0.596] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:23:0.596] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:23:0.596] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[12:23:0.596] Response has been sent.
+[12:23:0.596] No new typings were requested as a result of typings discovery
+[12:23:0.958] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":[],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/fdiamond/Training/monster-rolodex/src/components/card-list","kind":"discover"}
+[12:23:0.959] Explicitly included types: []
+[12:23:0.959] Inferred typings from unresolved imports: []
+[12:23:0.959] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:23:0.959] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/fdiamond/Training/monster-rolodex/src/components/card-list/bower_components","/home/fdiamond/Training/monster-rolodex/src/components/card-list/node_modules"]}
+[12:23:0.960] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[12:23:0.960] Response has been sent.
+[12:23:0.960] No new typings were requested as a result of typings discovery
